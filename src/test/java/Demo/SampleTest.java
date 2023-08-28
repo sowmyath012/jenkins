@@ -34,5 +34,6 @@ WebDriver driver=null;
 		  driver.get(URL);
 		  //first push
 		  //second push
+		  //welcome
 	}
 }
